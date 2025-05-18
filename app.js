@@ -366,7 +366,8 @@ document.addEventListener('DOMContentLoaded', () => {
     ];
 
     // --- Helper Functions ---
-// ... existing code ..
+// ... existing code ...
+
 
     // --- Helper Functions ---
 // ... existing code ...
